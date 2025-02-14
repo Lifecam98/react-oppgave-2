@@ -5,7 +5,7 @@ const Divider = () => {
 		width: "70vw",
 		height: "2px",
 		backgroundColor: "#e0e0e0",
-		margin: "20px 0",
+		margin: "20px auto",
 		borderRadius: "1px",
 	};
 

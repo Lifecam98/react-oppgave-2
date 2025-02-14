@@ -3,10 +3,11 @@ import CookieClicker from "./components/CookieClicker";
 import CatFacts from "./components/CatFacts";
 import Users from "./components/Users";
 import Divider from "./components/Divider";
-
+import Title from "./components/Title";
 function App() {
 	return (
 		<>
+			<Title />
 			<Divider />
 			<CookieClicker />
 			<Divider />
